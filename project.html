@@ -1,6 +1,5 @@
 <!DOCTYPE html>
 <html>
-
 	<head>
 		<meta charset="UTF-8">
 		<title>wasps project</title>
@@ -9,26 +8,26 @@
 		<link rel="stylesheet" href="css/public.css" />
 		<link rel="stylesheet" href="css/project.css" />
 	</head>
-
-	<body>
+	<body ng-app="app" ng-controller="controller" >
 		<section class="container">
 			<div class="logo">
 				<img src="img/hf_logo.png" />
 			</div>
 			<p class="title">整理自己页面和游戏，纯属娱乐</p>
 			<div class="content">
-				<div class="item">
-					<p>标题1</p>
+				<div class="item" ng-repeat="data in list" >
+					<p ng-bind=data.title></p>
 					<ul>
-						<li><a href="">内容a</a></li>
-						<li><a href="">内容a</a></li>
-						<li><a href="">内容a</a></li>
-						<li><a href="">内容a</a></li>
+						<li ng-repeat="item in data.contents" >
+							<a ng-href="{{item.linkTo}}"  ng-bind="item.des" ></a>
+						</li>
 					</ul>
 				</div>
 			</div>
 		</section>
 		<canvas id="canvas"></canvas>
+		<script type="text/javascript" src="https://cdn.bootcss.com/angular.js/1.2.4/angular.min.js" ></script>
+		<script type="text/javascript" src="data/projectData.js" ></script>
 		<script type="text/javascript" src="js/project.js" ></script>
 	</body>
 </html>

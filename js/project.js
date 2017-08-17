@@ -105,3 +105,7 @@ window.onresize = () => {
 		init(circleNum);
 	}, 5)
 }
+
+var app = angular.module("app", []).controller("controller", function($scope) {
+	$scope.list = data;
+});
