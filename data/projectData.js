@@ -88,6 +88,10 @@ var data = [
 			{
 				des : "飞行" ,
 				linkTo : "http://skycolor.github.io/html5/game/ice/index.html"
+			} ,
+			{
+				des : "吃糖果" ,
+				linkTo : "http://skycolor.github.io/html5/game/eatCandy/index.html"
 			}
 		]
 	}
