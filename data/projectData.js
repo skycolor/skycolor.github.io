@@ -22,6 +22,15 @@ var data = [
 		]
 	} ,
 	{
+		title : "vue" ,
+		contents : [
+			{
+				des : "vue webpack搭建的相册页面，同一个功能用不同的方式实现" ,
+				linkTo : "https://skycolor.github.io/photo-wall-vue/dist/index.html"
+			} 
+		]
+	} ,
+	{
 		title : "canvas杂七杂八页面" ,
 		contents : [
 			{
