@@ -31,6 +31,23 @@ var data = [
 		]
 	} ,
 	{
+		title : "js/jQuery 临摹或者自主开发的小插件" ,
+		contents : [
+			{
+				des : "jQuery 使用图片翻牌效果的倒计时" ,
+				linkTo : "https://skycolor.github.io/html5/jsPlugin/countDown/index.html"
+			}  ,
+			{
+				des : "jQuery 临摹datePicker控件" ,
+				linkTo : "https://skycolor.github.io/html5/jsPlugin/datePlugin/index.html"
+			} ,
+			{
+				des : "jQuery 颜色选择控件" ,
+				linkTo : "https://skycolor.github.io/html5/jsPlugin/colorSeclect/index.html"
+			}
+		]
+	} ,
+	{
 		title : "canvas杂七杂八页面" ,
 		contents : [
 			{
