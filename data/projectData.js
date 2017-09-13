@@ -18,7 +18,11 @@ var data = [
 			{
 				des : "react yeoman webpack搭建的相册页面" ,
 				linkTo : "https://skycolor.github.io/photo-wall/dist/index.html"
-			} 
+			} ,
+			{
+				des : "react router webpack搭建的音乐播放器，兼容移动PC" ,
+				linkTo : "https://skycolor.github.io/react-music-player/dist/index.html"
+			}
 		]
 	} ,
 	{
