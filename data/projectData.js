@@ -55,19 +55,19 @@ var data = [
 		title : "一些背景特效" ,
 		contents : [
 			{
-				des : "canvas 彩色粒子背景，我的主页背景就是这个" ,
+				des : "彩色粒子背景，我的主页背景就是这个" ,
 				linkTo : "http://skycolor.github.io/canvas-project/beautifulEffect/particle/index.html"
 			} ,
 			{
-				des : "canvas 仿照vue的一位作者的博客背景" ,
+				des : "仿照vue的一位作者的博客背景" ,
 				linkTo : "http://skycolor.github.io/canvas-project/beautifulEffect/triangle/index.html"
 			} ,
 			{
-				des : "canvas 仿照知乎登录页的背景" ,
+				des : "仿照知乎登录页的背景" ,
 				linkTo : "http://skycolor.github.io/canvas-project/beautifulEffect/zhihu/index.html"
 			} ,
 			{
-				des : "canvas 比较一般的粒子星空背景" ,
+				des : "比较一般的粒子星空背景" ,
 				linkTo : "http://skycolor.github.io/canvas-project/beautifulEffect/particleSky/index.html"
 			}
 		]
@@ -76,43 +76,43 @@ var data = [
 		title : "canvas杂七杂八页面" ,
 		contents : [
 			{
-				des : "canvas banner 小块块切换轮播图" ,
+				des : "banner 小块块切换轮播图" ,
 				linkTo : "http://skycolor.github.io/canvas-project/banner/index.html"
 			} ,
 			{
-				des : "canvas 鼠标魔法棒特效" ,
+				des : "鼠标魔法棒特效" ,
 				linkTo : "http://skycolor.github.io/canvas-project/banner/index.html"
 			} ,
 			{
-				des : "canvas 3D 倒计时爆炸特效" ,
+				des : "3D 倒计时爆炸特效" ,
 				linkTo : "http://skycolor.github.io/canvas-project/countDown/boom/index.html"
 			} ,
 			{
-				des : "canvas 仿造16年过年微信模糊图片领红包效果" ,
+				des : "仿造16年过年微信模糊图片领红包效果" ,
 				linkTo : "http://skycolor.github.io/canvas-project/fuzzyPhotos/index.html"
 			} ,
 			{
-				des : "canvas 图片放大镜效果" ,
+				des : "图片放大镜效果" ,
 				linkTo : "http://skycolor.github.io/canvas-project/imgOperation/magnify.html"
 			} ,
 			{
-				des : "canvas 图片像素操作demo" ,
+				des : "图片像素操作demo" ,
 				linkTo : "http://skycolor.github.io/canvas-project/imgOperation/pixel.html"
 			} ,
 			{
-				des : "canvas 刮刮乐实现" ,
+				des : "刮刮乐实现" ,
 				linkTo : "http://skycolor.github.io/canvas-project/scratchMusic/index.html"
 			} ,
 			{
-				des : "canvas 写字游戏" ,
+				des : "写字游戏" ,
 				linkTo : "http://skycolor.github.io/canvas-project/strokeWrite/index.html"
 			} ,
 			{
-				des : "canvas 烟花特效" ,
+				des : "烟花特效" ,
 				linkTo : "http://skycolor.github.io/canvas-project/fireworks/index.html"
 			} ,
 			{
-				des : "canvas 移动红包雨" ,
+				des : "移动红包雨" ,
 				linkTo : "http://skycolor.github.io/js-moneyRain/index.html"
 			} 
 		]
