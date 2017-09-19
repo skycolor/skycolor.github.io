@@ -52,6 +52,27 @@ var data = [
 		]
 	} ,
 	{
+		title : "一些背景特效" ,
+		contents : [
+			{
+				des : "canvas 彩色粒子背景，我的主页背景就是这个" ,
+				linkTo : "http://skycolor.github.io/canvas-project/beautifulEffect/particle/index.html"
+			} ,
+			{
+				des : "canvas 仿照vue的一位作者的博客背景" ,
+				linkTo : "http://skycolor.github.io/canvas-project/beautifulEffect/triangle/index.html"
+			} ,
+			{
+				des : "canvas 仿照知乎登录页的背景" ,
+				linkTo : "http://skycolor.github.io/canvas-project/beautifulEffect/zhihu/index.html"
+			} ,
+			{
+				des : "canvas 比较一般的粒子星空背景" ,
+				linkTo : "http://skycolor.github.io/canvas-project/beautifulEffect/particleSky/index.html"
+			}
+		]
+	} ,
+	{
 		title : "canvas杂七杂八页面" ,
 		contents : [
 			{
