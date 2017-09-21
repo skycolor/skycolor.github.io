@@ -118,6 +118,15 @@ var data = [
 		]
 	} ,
 	{
+		title : "css 娱乐" ,
+		contents : [
+			{
+				des : "iPhoneX刘海娱乐" ,
+				linkTo : "http://skycolor.github.io/study/frontWeb/css/funOfIphoneX/index.html"
+			} 
+		]
+	} ,
+	{
 		title : "HTML5 游戏" ,
 		contents : [
 			{
