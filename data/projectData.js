@@ -152,6 +152,10 @@ var data = [
 			{
 				des : "吃糖果" ,
 				linkTo : "http://skycolor.github.io/html5/game/eatCandy/index.html"
+			} ,
+			{
+				des : "赛车竞技游戏" ,
+				linkTo : "https://skycolor.github.io/h5game-car/"
 			}
 		]
 	}

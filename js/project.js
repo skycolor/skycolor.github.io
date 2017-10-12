@@ -4,12 +4,12 @@ class Circle {
 	//设置随机的 x，y坐标，r半径，_mx，_my移动的距离
 	//this.r是创建圆的半径，参数越大半径越大
 	//this._mx,this._my是移动的距离，参数越大移动
-	constructor(x, y) {
+	constructor(x, y , r) {
 			this.x = x;
 			this.y = y;
-			this.r = Math.random() * 10;
-			this._mx = Math.random();
-			this._my = Math.random();
+			this.r = Math.random() * r;
+			this._mx = 1 - 2*Math.random();
+			this._my = 1 - 2*Math.random();
 			this.isDie = false;
 		}
 		//canvas 画圆和画直线
@@ -70,8 +70,8 @@ window.requestAnimationFrame = window.requestAnimationFrame || window.mozRequest
 
 let canvas = document.getElementById('canvas'),
 	ctx = canvas.getContext('2d'),
-	circleNum = 75,
-	w, h, circles = [];
+	circleNum ,
+	w, h, r,  circles = [];
 
 let draw = function() {
 	ctx.clearRect(0, 0, w, h);
@@ -91,8 +91,10 @@ let draw = function() {
 let init = function(num) {
 	w = canvas.width = canvas.offsetWidth;
 	h = canvas.height = canvas.offsetHeight;
-	for(var i = 0; i < num; i++) {
-		circles.push(new Circle(Math.random() * w, Math.random() * h));
+	r = Math.min(parseInt(window.innerWidth/48) , parseInt(window.innerHeight/80));
+	circleNum = parseInt(window.innerWidth/15);
+	for(var i = 0; i < circleNum; i++) {
+		circles.push(new Circle(Math.random() * w, Math.random() * h , r));
 	}
 	draw();
 }
@@ -102,7 +104,7 @@ init(circleNum);
 window.onresize = () => {
 	circles.splice(0, circles.length);
 	setTimeout(function() {
-		init(circleNum);
+		init();
 	}, 5)
 }
 
