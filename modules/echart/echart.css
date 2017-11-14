@@ -1,0 +1,13 @@
+.container{
+	width: 1000px;
+	margin: 10px auto;
+}
+.container .row .item{
+	border: solid 1px #ddd;
+	border-radius: 4px;
+	-webkit-border-radius: 4px;
+	float: left;
+	margin: 15px 10px;
+	width: 300px;
+	height: 250px;
+}

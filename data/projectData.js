@@ -158,5 +158,18 @@ var data = [
 				linkTo : "https://skycolor.github.io/h5game-car/"
 			}
 		]
+	} ,
+	{
+		title : "echart 表格汇总" ,
+		contents : [
+			{
+				des : "柱形图" ,
+				linkTo : "https://skycolor.github.io/modules/echart/bar.html"
+			} ,
+			{
+				des : "线形图" ,
+				linkTo : "https://skycolor.github.io/modules/echart/line.html"
+			} 
+		]
 	}
 ]
