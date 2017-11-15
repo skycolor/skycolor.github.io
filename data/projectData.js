@@ -13,6 +13,15 @@ var data = [
 		]
 	} ,
 	{
+		title : "css 娱乐" ,
+		contents : [
+			{
+				des : "iPhoneX刘海娱乐" ,
+				linkTo : "http://skycolor.github.io/study/frontWeb/css/funOfIphoneX/index.html"
+			} 
+		]
+	} ,
+	{
 		title : "react" ,
 		contents : [
 			{
@@ -104,30 +113,21 @@ var data = [
 				linkTo : "http://skycolor.github.io/canvas-project/scratchMusic/index.html"
 			} ,
 			{
-				des : "写字游戏" ,
-				linkTo : "http://skycolor.github.io/canvas-project/strokeWrite/index.html"
-			} ,
-			{
 				des : "烟花特效" ,
 				linkTo : "http://skycolor.github.io/canvas-project/fireworks/index.html"
 			} ,
 			{
 				des : "移动红包雨" ,
 				linkTo : "http://skycolor.github.io/js-moneyRain/index.html"
-			} 
-		]
-	} ,
-	{
-		title : "css 娱乐" ,
-		contents : [
+			} ,
 			{
-				des : "iPhoneX刘海娱乐" ,
-				linkTo : "http://skycolor.github.io/study/frontWeb/css/funOfIphoneX/index.html"
+				des : "鼠标移动跟着有绚丽的小球" ,
+				linkTo : "http://skycolor.github.io/canvas-projec/globule/index.html"
 			} 
 		]
 	} ,
 	{
-		title : "HTML5 游戏" ,
+		title : "canvas 游戏" ,
 		contents : [
 			{
 				des : "翻牌游戏" ,
@@ -138,25 +138,55 @@ var data = [
 				linkTo : "http://skycolor.github.io/html5/game/camera/index.html"
 			} ,
 			{
+				des : "飞行" ,
+				linkTo : "http://skycolor.github.io/html5/game/ice/index.html"
+			} ,
+			{
+				des : "写字游戏" ,
+				linkTo : "http://skycolor.github.io/canvas-project/strokeWrite/index.html"
+			} ,
+			{
+				des : "五子棋" ,
+				linkTo : "http://skycolor.github.io/canvas-project/five-chess/index.html"
+			} ,
+			{
+				des : "2048" ,
+				linkTo : "http://skycolor.github.io/canvas-project/game2048/index.html"
+			} ,
+			{
+				des : "贪食蛇游戏" ,
+				linkTo : "http://skycolor.github.io/canvas-project/snake/index.html"
+			} ,
+			{
+				des : "坦克大战游戏" ,
+				linkTo : "http://skycolor.github.io/canvas-project/tank/index.html"
+			} 
+		]
+	} ,
+	{
+		title : "游戏引擎游戏" ,
+		contents : [
+			{
 				des : "切水果" ,
 				linkTo : "http://skycolor.github.io/html5/game/cutFruit/index.html"
 			} ,
+			{
+				des : "吃糖果" ,
+				linkTo : "http://skycolor.github.io/html5/game/eatCandy/index.html"
+			} 
+		]
+	} ,
+	{
+		title : "html 游戏" ,
+		contents : [
 			{
 				des : "吃包子" ,
 				linkTo : "http://skycolor.github.io/html5/game/eatDumpings/index.html"
 			} ,
 			{
-				des : "飞行" ,
-				linkTo : "http://skycolor.github.io/html5/game/ice/index.html"
-			} ,
-			{
-				des : "吃糖果" ,
-				linkTo : "http://skycolor.github.io/html5/game/eatCandy/index.html"
-			} ,
-			{
 				des : "赛车竞技游戏" ,
 				linkTo : "https://skycolor.github.io/h5game-car/"
-			}
+			} 
 		]
 	} ,
 	{
