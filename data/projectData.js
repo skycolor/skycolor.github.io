@@ -17,7 +17,7 @@ var data = [
 		contents : [
 			{
 				des : "iPhoneX刘海娱乐" ,
-				linkTo : "http://skycolor.github.io/study/frontWeb/css/funOfIphoneX/index.html"
+				linkTo : "http://skycolor.github.io/study/frontWeb/base/css/funOfIphoneX/index.html"
 			} 
 		]
 	} ,
