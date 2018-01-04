@@ -40,7 +40,11 @@ var data = [
 			{
 				des : "vue webpack搭建的相册页面，同一个功能用不同的方式实现" ,
 				linkTo : "https://skycolor.github.io/photo-wall-vue/dist/index.html"
-			} 
+			} ,
+			{
+				des : "使用vue 全家桶搭建的后台管理系统，一个雏形" ,
+				linkTo : "https://skycolor.github.io/vue-ele-project/dist/index.html#/"
+			}
 		]
 	} ,
 	{
