@@ -65,6 +65,27 @@ var data = [
 		]
 	} ,
 	{
+		title : "一个下雨的html集合" ,
+		contents : [
+			{
+				des : "落雨1" ,
+				linkTo : "https://skycolor.github.io/html5/effect/rain/index1.html"
+			}  ,
+			{
+				des : "落雨2" ,
+				linkTo : "https://skycolor.github.io/html5/effect/rain/index2.html"
+			}  ,
+			{
+				des : "落雨3" ,
+				linkTo : "https://skycolor.github.io/html5/effect/rain/index3.html"
+			}  ,
+			{
+				des : "落雨4" ,
+				linkTo : "https://skycolor.github.io/html5/effect/rain/index4.html"
+			}  ,
+		]
+	} ,
+	{
 		title : "一些背景特效" ,
 		contents : [
 			{
