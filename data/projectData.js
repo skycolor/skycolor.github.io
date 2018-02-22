@@ -31,6 +31,10 @@ var data = [
 			{
 				des : "react router webpack搭建的音乐播放器，兼容移动PC" ,
 				linkTo : "https://skycolor.github.io/react-music-player/dist/index.html"
+			} ,
+			{
+				des : "react全家桶管理系统" ,
+				linkTo : "https://skycolor.github.io/react-ant-project/dist/index.html"
 			}
 		]
 	} ,
