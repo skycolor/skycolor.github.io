@@ -22,6 +22,15 @@ var data = [
 		]
 	} ,
 	{
+		title : "404页面" ,
+		contents : [
+			{
+				des : "copy git的404页面" ,
+				linkTo : "https://skycolor.github.io/modules/404/github404.html"
+			} 
+		]
+	} ,
+	{
 		title : "react" ,
 		contents : [
 			{
@@ -107,6 +116,18 @@ var data = [
 			{
 				des : "比较一般的粒子星空背景" ,
 				linkTo : "http://skycolor.github.io/canvas-project/beautifulEffect/particleSky/index.html"
+			} ,
+			{
+				des : "落雪花" ,
+				linkTo : "http://skycolor.github.io/canvas-project/beautifulEffect/bgEffect/snow.html"
+			} ,
+			{
+				des : "落彩带" ,
+				linkTo : "http://skycolor.github.io/canvas-project/beautifulEffect/bgEffect/band.html"
+			} ,
+			{
+				des : "落星星" ,
+				linkTo : "http://skycolor.github.io/canvas-project/beautifulEffect/bgEffect/star.html"
 			}
 		]
 	} ,
