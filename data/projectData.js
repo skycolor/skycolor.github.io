@@ -99,6 +99,15 @@ var data = [
 		]
 	} ,
 	{
+		title : "一个文字的html集合" ,
+		contents : [
+			{
+				des : "仿造自动输入的效果" ,
+				linkTo : "https://skycolor.github.io/html5/effect/text/index1.html"
+			}  
+		]
+	} ,
+	{
 		title : "一些背景特效" ,
 		contents : [
 			{
