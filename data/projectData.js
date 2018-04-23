@@ -137,6 +137,10 @@ var data = [
 			{
 				des : "落星星" ,
 				linkTo : "http://skycolor.github.io/canvas-project/beautifulEffect/bgEffect/star.html"
+			} ,
+			{
+				des : "花瓣" ,
+				linkTo : "http://skycolor.github.io/canvas-project/beautifulEffect/flowers/index1.html"
 			}
 		]
 	} ,
