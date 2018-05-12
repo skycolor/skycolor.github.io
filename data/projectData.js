@@ -4,12 +4,16 @@ var data = [
 		contents : [
 			{
 				des : "2016天猫双11 VR形式活动页" ,
-				linkTo : "https://skycolor.github.io/copyTmall2016H5/"
+				linkTo : "https://skycolor.github.io/copyTmallH5/index.html"
 			} ,
 			{
 				des : "2016天猫优衣库店铺首页飘雪效果" ,
 				linkTo : "http://skycolor.github.io/canvas-project/tmallSnow/index.html"
-			}
+			} ,
+			{
+				des : "仿照天猫wap首页，顶部导航动画" ,
+				linkTo : "https://skycolor.github.io/copyTmallH5/h5/home/index.html"
+			} 
 		]
 	} ,
 	{
