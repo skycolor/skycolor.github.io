@@ -119,8 +119,16 @@ var data = [
 				linkTo : "http://skycolor.github.io/canvas-project/beautifulEffect/particle/index.html"
 			} ,
 			{
-				des : "仿照vue的一位作者的博客背景" ,
+				des : "鼠标移动粒子效果" ,
+				linkTo : "http://skycolor.github.io/canvas-project/beautifulEffect/mouseMove/index.html"
+			} ,
+			{
+				des : "仿照尤雨溪的博客背景" ,
 				linkTo : "http://skycolor.github.io/canvas-project/beautifulEffect/triangle/index.html"
+			} ,
+			{
+				des : "仿照尤雨溪的博客背景——扩展" ,
+				linkTo : "http://skycolor.github.io/canvas-project/beautifulEffect/ribbons/index.html"
 			} ,
 			{
 				des : "仿照知乎登录页的背景" ,
@@ -157,7 +165,7 @@ var data = [
 			} ,
 			{
 				des : "鼠标魔法棒特效" ,
-				linkTo : "http://skycolor.github.io/canvas-project/banner/index.html"
+				linkTo : "http://skycolor.github.io/canvas-project/canvasMagicWand/index.html"
 			} ,
 			{
 				des : "3D 倒计时爆炸特效" ,
@@ -184,12 +192,8 @@ var data = [
 				linkTo : "http://skycolor.github.io/canvas-project/fireworks/index.html"
 			} ,
 			{
-				des : "移动红包雨" ,
-				linkTo : "http://skycolor.github.io/js-moneyRain/index.html"
-			} ,
-			{
 				des : "鼠标移动跟着有绚丽的小球" ,
-				linkTo : "http://skycolor.github.io/canvas-projec/globule/index.html"
+				linkTo : "http://skycolor.github.io/canvas-project/globule/index.html"
 			} 
 		]
 	} ,
