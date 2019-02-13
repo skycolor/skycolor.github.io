@@ -4,11 +4,11 @@ var data = [
 		contents : [
 			{
 				des : "2016天猫双11 VR形式活动页" ,
-				linkTo : "https://skycolor.github.io/copyTmallH5/index.html"
+				linkTo : "https://skycolor.github.io/copyTmallH5/1111/index.html"
 			} ,
 			{
 				des : "2016天猫优衣库店铺首页飘雪效果" ,
-				linkTo : "http://skycolor.github.io/canvas-project/tmallSnow/index.html"
+				linkTo : "http://skycolor.github.io/copyTmallH5/snow/index.html"
 			} ,
 			{
 				des : "仿照天猫wap首页，顶部导航动画" ,
@@ -197,23 +197,27 @@ var data = [
 			} ,
 			{
 				des : "写字游戏" ,
-				linkTo : "http://skycolor.github.io/canvas-project/strokeWrite/index.html"
+				linkTo : "http://skycolor.github.io/html5/game/strokeWrite/index.html"
 			} ,
 			{
 				des : "五子棋" ,
-				linkTo : "http://skycolor.github.io/canvas-project/five-chess/index.html"
+				linkTo : "http://skycolor.github.io/html5/game/five-chess/index.html"
 			} ,
 			{
 				des : "2048" ,
-				linkTo : "http://skycolor.github.io/canvas-project/game2048/index.html"
+				linkTo : "http://skycolor.github.io/html5/game/game2048/index.html"
 			} ,
 			{
 				des : "贪食蛇游戏" ,
-				linkTo : "http://skycolor.github.io/canvas-project/snake/index.html"
+				linkTo : "http://skycolor.github.io/html5/game/snake/index.html"
 			} ,
 			{
 				des : "坦克大战游戏" ,
-				linkTo : "http://skycolor.github.io/canvas-project/tank/index.html"
+				linkTo : "http://skycolor.github.io/html5/game/tank/index.html"
+			} ,
+			{
+				des : "吃包子" ,
+				linkTo : "http://skycolor.github.io/html5/game/eatDumpings/index.html"
 			} 
 		]
 	} ,
@@ -227,16 +231,7 @@ var data = [
 			{
 				des : "吃糖果" ,
 				linkTo : "http://skycolor.github.io/html5/game/eatCandy/index.html"
-			} 
-		]
-	} ,
-	{
-		title : "html 游戏" ,
-		contents : [
-			{
-				des : "吃包子" ,
-				linkTo : "http://skycolor.github.io/html5/game/eatDumpings/index.html"
-			} 
+			}
 		]
 	} ,
 	{
