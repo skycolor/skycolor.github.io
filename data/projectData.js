@@ -65,7 +65,7 @@ var data = [
 		]
 	} ,
 	{
-		title : "一个下雨的html集合" ,
+		title : "下雨html集合" ,
 		contents : [
 			{
 				des : "落雨1" ,
@@ -82,7 +82,20 @@ var data = [
 			{
 				des : "落雨4" ,
 				linkTo : "https://skycolor.github.io/html5/effect/rain/index4.html"
+			}  
+		]
+	} ,
+	{
+		title : "樱花html集合" ,
+		contents : [
+			{
+				des : "樱花1" ,
+				linkTo : "https://skycolor.github.io/html5/effect/sakura/sakura1.html"
 			}  ,
+			{
+				des : "樱花2" ,
+				linkTo : "https://skycolor.github.io/html5/effect/sakura/sakura2.html"
+			}
 		]
 	} ,
 	{
