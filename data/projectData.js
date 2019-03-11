@@ -190,6 +190,10 @@ var data = [
 			{
 				des : "鼠标移动跟着有绚丽的小球" ,
 				linkTo : "http://skycolor.github.io/canvas-project/globule/index.html"
+			} ,
+			{
+				des : "粒子透视" ,
+				linkTo : "http://skycolor.github.io/study/frontWeb/canvas3d/index.html"
 			} 
 		]
 	} ,
