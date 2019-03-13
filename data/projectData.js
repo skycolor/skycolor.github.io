@@ -8,7 +8,7 @@ var data = [
 			} ,
 			{
 				des : "2016天猫优衣库店铺首页飘雪效果" ,
-				linkTo : "http://skycolor.github.io/copyTmallH5/snow/index.html"
+				linkTo : "https://skycolor.github.io/copyTmallH5/snow/index.html"
 			} ,
 			{
 				des : "仿照天猫wap首页，顶部导航动画" ,
@@ -21,7 +21,7 @@ var data = [
 		contents : [
 			{
 				des : "iPhoneX刘海娱乐" ,
-				linkTo : "http://skycolor.github.io/study/frontWeb/base/css/funOfIphoneX/index.html"
+				linkTo : "https://skycolor.github.io/study/frontWeb/base/css/funOfIphoneX/index.html"
 			} 
 		]
 	} ,
@@ -112,43 +112,43 @@ var data = [
 		contents : [
 			{
 				des : "彩色粒子背景，我的主页背景就是这个" ,
-				linkTo : "http://skycolor.github.io/canvas-project/beautifulEffect/particle/index.html"
+				linkTo : "https://skycolor.github.io/canvas-project/beautifulEffect/particle/index.html"
 			} ,
 			{
 				des : "鼠标移动粒子效果" ,
-				linkTo : "http://skycolor.github.io/canvas-project/beautifulEffect/mouseMove/index.html"
+				linkTo : "https://skycolor.github.io/canvas-project/beautifulEffect/mouseMove/index.html"
 			} ,
 			{
 				des : "仿照尤雨溪的博客背景" ,
-				linkTo : "http://skycolor.github.io/canvas-project/beautifulEffect/triangle/index.html"
+				linkTo : "https://skycolor.github.io/canvas-project/beautifulEffect/triangle/index.html"
 			} ,
 			{
 				des : "仿照尤雨溪的博客背景——扩展" ,
-				linkTo : "http://skycolor.github.io/canvas-project/beautifulEffect/ribbons/index.html"
+				linkTo : "https://skycolor.github.io/canvas-project/beautifulEffect/ribbons/index.html"
 			} ,
 			{
 				des : "仿照知乎登录页的背景" ,
-				linkTo : "http://skycolor.github.io/canvas-project/beautifulEffect/zhihu/index.html"
+				linkTo : "https://skycolor.github.io/canvas-project/beautifulEffect/zhihu/index.html"
 			} ,
 			{
 				des : "比较一般的粒子星空背景" ,
-				linkTo : "http://skycolor.github.io/canvas-project/beautifulEffect/particleSky/index.html"
+				linkTo : "https://skycolor.github.io/canvas-project/beautifulEffect/particleSky/index.html"
 			} ,
 			{
 				des : "落雪花" ,
-				linkTo : "http://skycolor.github.io/canvas-project/beautifulEffect/bgEffect/snow.html"
+				linkTo : "https://skycolor.github.io/canvas-project/beautifulEffect/bgEffect/snow.html"
 			} ,
 			{
 				des : "落彩带" ,
-				linkTo : "http://skycolor.github.io/canvas-project/beautifulEffect/bgEffect/band.html"
+				linkTo : "https://skycolor.github.io/canvas-project/beautifulEffect/bgEffect/band.html"
 			} ,
 			{
 				des : "落星星" ,
-				linkTo : "http://skycolor.github.io/canvas-project/beautifulEffect/bgEffect/star.html"
+				linkTo : "https://skycolor.github.io/canvas-project/beautifulEffect/bgEffect/star.html"
 			} ,
 			{
 				des : "花瓣" ,
-				linkTo : "http://skycolor.github.io/canvas-project/beautifulEffect/flowers/index1.html"
+				linkTo : "https://skycolor.github.io/canvas-project/beautifulEffect/flowers/index1.html"
 			}
 		]
 	} ,
@@ -157,47 +157,47 @@ var data = [
 		contents : [
 			{
 				des : "banner 小块块切换轮播图" ,
-				linkTo : "http://skycolor.github.io/canvas-project/banner/index.html"
+				linkTo : "https://skycolor.github.io/canvas-project/banner/index.html"
 			} ,
 			{
 				des : "鼠标魔法棒特效" ,
-				linkTo : "http://skycolor.github.io/canvas-project/canvasMagicWand/index.html"
+				linkTo : "https://skycolor.github.io/canvas-project/canvasMagicWand/index.html"
 			} ,
 			{
 				des : "3D 倒计时爆炸特效" ,
-				linkTo : "http://skycolor.github.io/canvas-project/countDown/boom/index.html"
+				linkTo : "https://skycolor.github.io/canvas-project/countDown/boom/index.html"
 			} ,
 			{
 				des : "仿造16年过年微信模糊图片领红包效果" ,
-				linkTo : "http://skycolor.github.io/canvas-project/fuzzyPhotos/index.html"
+				linkTo : "https://skycolor.github.io/canvas-project/fuzzyPhotos/index.html"
 			} ,
 			{
 				des : "图片放大镜效果" ,
-				linkTo : "http://skycolor.github.io/canvas-project/imgOperation/magnify.html"
+				linkTo : "https://skycolor.github.io/canvas-project/imgOperation/magnify.html"
 			} ,
 			{
 				des : "图片像素操作demo" ,
-				linkTo : "http://skycolor.github.io/canvas-project/imgOperation/pixel.html"
+				linkTo : "https://skycolor.github.io/canvas-project/imgOperation/pixel.html"
 			} ,
 			{
 				des : "刮刮乐实现" ,
-				linkTo : "http://skycolor.github.io/canvas-project/scratchMusic/index.html"
+				linkTo : "https://skycolor.github.io/canvas-project/scratchMusic/index.html"
 			} ,
 			{
 				des : "烟花特效" ,
-				linkTo : "http://skycolor.github.io/canvas-project/fireworks/index.html"
+				linkTo : "https://skycolor.github.io/canvas-project/fireworks/index.html"
 			} ,
 			{
 				des : "鼠标移动跟着有绚丽的小球" ,
-				linkTo : "http://skycolor.github.io/canvas-project/globule/index.html"
+				linkTo : "https://skycolor.github.io/canvas-project/globule/index.html"
 			} ,
 			{
 				des : "粒子透视" ,
-				linkTo : "http://skycolor.github.io/study/frontWeb/canvas3d/index.html"
+				linkTo : "https://skycolor.github.io/study/frontWeb/canvas3d/index.html"
 			} ,
 			{
 				des : "粒子转圈圈" ,
-				linkTo : "http://skycolor.github.io/study/frontWeb/canvas3d/index2.html"
+				linkTo : "https://skycolor.github.io/study/frontWeb/canvas3d/index2.html"
 			} 
 		]
 	} ,
@@ -206,39 +206,39 @@ var data = [
 		contents : [
 			{
 				des : "翻牌游戏" ,
-				linkTo : "http://skycolor.github.io/html5/game/520Day/index.html"
+				linkTo : "https://skycolor.github.io/html5/game/520Day/index.html"
 			} ,
 			{
 				des : "拍照比分游戏" ,
-				linkTo : "http://skycolor.github.io/html5/game/camera/index.html"
+				linkTo : "https://skycolor.github.io/html5/game/camera/index.html"
 			} ,
 			{
 				des : "飞行" ,
-				linkTo : "http://skycolor.github.io/html5/game/ice/index.html"
+				linkTo : "https://skycolor.github.io/html5/game/ice/index.html"
 			} ,
 			{
 				des : "写字游戏" ,
-				linkTo : "http://skycolor.github.io/html5/game/strokeWrite/index.html"
+				linkTo : "https://skycolor.github.io/html5/game/strokeWrite/index.html"
 			} ,
 			{
 				des : "五子棋" ,
-				linkTo : "http://skycolor.github.io/html5/game/five-chess/index.html"
+				linkTo : "https://skycolor.github.io/html5/game/five-chess/index.html"
 			} ,
 			{
 				des : "2048" ,
-				linkTo : "http://skycolor.github.io/html5/game/game2048/index.html"
+				linkTo : "https://skycolor.github.io/html5/game/game2048/index.html"
 			} ,
 			{
 				des : "贪食蛇游戏" ,
-				linkTo : "http://skycolor.github.io/html5/game/snake/index.html"
+				linkTo : "https://skycolor.github.io/html5/game/snake/index.html"
 			} ,
 			{
 				des : "坦克大战游戏" ,
-				linkTo : "http://skycolor.github.io/html5/game/tank/index.html"
+				linkTo : "https://skycolor.github.io/html5/game/tank/index.html"
 			} ,
 			{
 				des : "吃包子" ,
-				linkTo : "http://skycolor.github.io/html5/game/eatDumpings/index.html"
+				linkTo : "https://skycolor.github.io/html5/game/eatDumpings/index.html"
 			} 
 		]
 	} ,
@@ -247,11 +247,11 @@ var data = [
 		contents : [
 			{
 				des : "切水果" ,
-				linkTo : "http://skycolor.github.io/html5/game/cutFruit/index.html"
+				linkTo : "https://skycolor.github.io/html5/game/cutFruit/index.html"
 			} ,
 			{
 				des : "吃糖果" ,
-				linkTo : "http://skycolor.github.io/html5/game/eatCandy/index.html"
+				linkTo : "https://skycolor.github.io/html5/game/eatCandy/index.html"
 			}
 		]
 	} ,
