@@ -194,6 +194,10 @@ var data = [
 			{
 				des : "粒子透视" ,
 				linkTo : "http://skycolor.github.io/study/frontWeb/canvas3d/index.html"
+			} ,
+			{
+				des : "粒子转圈圈" ,
+				linkTo : "http://skycolor.github.io/study/frontWeb/canvas3d/index2.html"
 			} 
 		]
 	} ,
