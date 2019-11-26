@@ -260,6 +260,15 @@ var data = [
 		]
 	} ,
 	{
+		title : "python爬虫" ,
+		contents : [
+			{
+				des : "杂七杂八" ,
+				linkTo : "https://github.com/skycolor/python_project/tree/master/request"
+			} 
+		]
+	} ,
+	{
 		title : "echart 表格汇总" ,
 		contents : [
 			{
