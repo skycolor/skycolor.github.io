@@ -4,7 +4,7 @@ class Circle {
 	//设置随机的 x，y坐标，r半径，_mx，_my移动的距离
 	//this.r是创建圆的半径，参数越大半径越大
 	//this._mx,this._my是移动的距离，参数越大移动
-	constructor(x, y , r) {
+	constructor(x, y, r) {
 			this.x = x;
 			this.y = y;
 			this.r = Math.random() * r;
@@ -88,10 +88,10 @@ let draw = function() {
 	requestAnimationFrame(draw)
 }
 
-let init = function(num) {
+let init = function() {
 	w = canvas.width = canvas.offsetWidth;
 	h = canvas.height = canvas.offsetHeight;
-	r = Math.min(parseInt(window.innerWidth/48) , parseInt(window.innerHeight/80));
+	r = Math.min(parseInt(window.innerWidth/80) , parseInt(window.innerHeight/90));
 	circleNum = parseInt(window.innerWidth/15);
 	for(var i = 0; i < circleNum; i++) {
 		circles.push(new Circle(Math.random() * w, Math.random() * h , r));
@@ -99,7 +99,7 @@ let init = function(num) {
 	draw();
 }
 
-init(circleNum);
+init();
 
 window.onresize = () => {
 	circles.splice(0, circles.length);
