@@ -22,7 +22,11 @@ var data = [
 			{
 				des : "iPhoneX刘海娱乐" ,
 				linkTo : "https://skycolor.github.io/study/frontWeb/base/css/funOfIphoneX/index.html"
-			} 
+			},
+			{
+				des : "hover效果" ,
+				linkTo : "https://skycolor.github.io/study/frontWeb/base/css/hover/index.html"
+			},
 		]
 	} ,
 	{
