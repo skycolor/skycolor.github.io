@@ -27,6 +27,10 @@ var data = [
 				des : "hover效果" ,
 				linkTo : "https://skycolor.github.io/study/frontWeb/base/css/hover/index.html"
 			},
+			{
+				des : "文字hover效果" ,
+				linkTo : "https://skycolor.github.io/study/frontWeb/base/css/hover/index2.html"
+			}
 		]
 	} ,
 	{
