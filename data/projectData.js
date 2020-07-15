@@ -253,7 +253,7 @@ var data = [
 				linkTo : "https://skycolor.github.io/html5/game/eatDumpings/index.html"
 			} 
 		]
-	} ,
+	},
 	{
 		title : "游戏引擎游戏" ,
 		contents : [
@@ -265,28 +265,6 @@ var data = [
 				des : "吃糖果" ,
 				linkTo : "https://skycolor.github.io/html5/game/eatCandy/index.html"
 			}
-		]
-	} ,
-	{
-		title : "python爬虫" ,
-		contents : [
-			{
-				des : "杂七杂八" ,
-				linkTo : "https://github.com/skycolor/python_project/tree/master/request"
-			} 
-		]
-	} ,
-	{
-		title : "echart 表格汇总" ,
-		contents : [
-			{
-				des : "柱形图" ,
-				linkTo : "https://skycolor.github.io/modules/echart/bar.html"
-			} ,
-			{
-				des : "线形图" ,
-				linkTo : "https://skycolor.github.io/modules/echart/line.html"
-			} 
 		]
 	}
 ]
