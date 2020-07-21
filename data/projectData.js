@@ -143,6 +143,10 @@ var data = [
 				linkTo : "https://skycolor.github.io/canvas-project/beautifulEffect/particleSky/index.html"
 			} ,
 			{
+				des : "跟随鼠标移动的粒子星空", 
+				linkTo : "https://skycolor.github.io/canvas-project/beautifulEffect/particleSky/index2.html"
+			} ,
+			{
 				des : "落雪花" ,
 				linkTo : "https://skycolor.github.io/canvas-project/beautifulEffect/bgEffect/snow.html"
 			} ,
